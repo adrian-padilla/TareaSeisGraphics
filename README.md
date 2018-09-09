@@ -1,0 +1,2 @@
+# TareaSeisGraphics
+MDIPixelArtNetBeansIDE
